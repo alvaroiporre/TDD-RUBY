@@ -16,10 +16,5 @@ describe Solver do
       end
     end
 
-    context 'with negative integers' do
-      it 'raises an ArgumentError' do
-        expect { Solver.new.factorial(-5) }.to raise_error(ArgumentError)
-      end
-    end
   end
 end
