@@ -41,12 +41,12 @@ describe Solver do
     context 'when N is neither divisible by 3 nor 5' do
       it 'returns N as a string for N = 7' do
         solver = Solver.new
-        expect(solver.fizzbuzz(7)).to eq(7)
+        expect(solver.fizzbuzz(7)).to eq('7')
       end
 
       it 'returns N as a string for N = 11' do
         solver = Solver.new
-        expect(solver.fizzbuzz(11)).to eq(11)
+        expect(solver.fizzbuzz(11)).to eq('11')
       end
     end
   end
