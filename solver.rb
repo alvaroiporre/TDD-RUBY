@@ -1,5 +1,6 @@
 class Solver
   def factorial(num)
+    raise ArgumentError, 'Factorial is not defined for negative integers.' if num.negative?
     return 1 if num < 2
 
     num * factorial(num - 1)
