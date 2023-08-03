@@ -1,37 +1,11 @@
 <a name="readme-top"></a>
-
 <div align="center">
 
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <br/>
   <br/>
   <br/>
-  <h1><b>PROJECT NAME</b></h1><a name="about-project"></a>
+  <h1><b>TDD project</b></h1><a name="about-project"></a>
 </div>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -53,59 +27,16 @@ After you're finished please remove all the comments and instructions!
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 Project Name <a name="about-project"></a>
 
-> The **ProjectName** something about the project.
+Test-driven development (TDD) project: In this project  use a class  with some methods to implement, but to do it just doing  by test-driven development (TDD). 
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 > Ruby
-
-<!-- <details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details> -->
-
-<!-- <details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details> -->
-
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-<!-- - Create My own Enumerable.
-- Use of Ruby's best practices.
-- Use of Gitflow.
-- Use of linters. -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- - Not available
-
-## 🚀 Live Demo <a name="live-demo"></a> -->
-
-<!-- - [Live Demo Link](<replace-with-your-deployment-URL>)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -152,18 +83,6 @@ To run tests, run the following command:
 rubocop
 ```
 
-<!-- ### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -176,11 +95,11 @@ Example:
 - Twitter: [@alvaro.iporre](https://twitter.com/Alvaro41065582)
 - LinkedIn: [Álvaro Iporre](https://www.linkedin.com/in/alvaroiporre/)
 
-<!-- 👤 **Therese Tuyisabe**
+👤 **Therese Tuyisabe**
 
 - GitHub: [@theresetuyi](https://github.com/theresetuyi)
 - Twitter: [@THERESETUYISAB2](https://twitter.com/THERESETUYISAB2)
-- LinkedIn: [therese-tuyisabe](https://www.linkedin.com/in/therese-tuyisabe/) -->
+- LinkedIn: [therese-tuyisabe](https://www.linkedin.com/in/therese-tuyisabe/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -188,7 +107,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **More data**
+- **More Test**
 - **More classes**
 - **More supported languages**
 
@@ -217,20 +136,6 @@ If you like this project,please give it a ⭐️!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse for giving me the opportunity to learn and grow as a developer.
-
-<!-- FAQ (optional) -->
-<!--
-## ❓ FAQ <a name="faq"></a>
-
-- **Do I need to install any program before running this project?**
-
-  - [ ] **Yes, you need to install PostgreSQL**
-
-  <br>
-
-- **Can I use this project for my own purposes?**
-
-  - [ ] **Yes, you can.** -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

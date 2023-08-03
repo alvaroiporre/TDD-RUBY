@@ -12,9 +12,8 @@ describe Solver do
       end
 
       it 'returns the correct factorial for 10' do
-        expect(Solver.new.factorial(10)).to eq(3628800)
+        expect(Solver.new.factorial(10)).to eq(3_628_800)
       end
     end
-
   end
 end

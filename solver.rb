@@ -1,26 +1,19 @@
 class Solver
+  def factorial(num)
+    return 1 if num < 2
 
-    def factorial(num)
-        if num < 2
-            return 1
-        end
-        num * factorial(num - 1)
-    end
+    num * factorial(num - 1)
+  end
 
-    def reverse(str)
-        str.reverse
-    end
+  def reverse(str)
+    str.reverse
+  end
 
-    def fizzbuzz(n)
-        if n % 3 == 0 and n % 5 == 0
-            return 'fizzbuzz'
-        end
-        if n % 3 == 0
-            return 'fizz'
-        end
-        if n % 5 == 0
-            return 'buzz'
-        end
-        n
-    end
+  def fizzbuzz(number)
+    return 'fizzbuzz' if (number % 3).zero? && (number % 5).zero?
+    return 'fizz' if (number % 3).zero?
+    return 'buzz' if (number % 5).zero?
+
+    number.to_s
+  end
 end
